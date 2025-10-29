@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.btn-catagoty {
+  @apply flex-shrink-0 bg-white text-gray-700 px-6 py-3 rounded-full font-medium border border-gray-300 hover:border-gray-400 hover:bg-gray-50 transition-colors duration-200 whitespace-nowrap
+}
